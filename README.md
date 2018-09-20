@@ -5,4 +5,4 @@ Compilation :
 gcc -Wall -o parenthese main.c parenthese.c pile.c
 
 Utilisation :
-./parenthese "<expression>"
+./parenthese "expression"
